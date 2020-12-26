@@ -1,0 +1,88 @@
+[2020-12-08 13:51:36] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\public\index.php | Строка: 10
+=================
+[2020-12-08 13:51:36] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\public\index.php | Строка: 10
+=================
+[2020-12-08 20:46:51] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\public\index.php | Строка: 10
+=================
+[2020-12-08 20:46:52] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\public\index.php | Строка: 10
+=================
+[2020-12-12 12:42:11] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 12:42:23] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 12:42:49] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 12:42:50] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 12:42:54] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 12:46:18] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 30
+=================
+[2020-12-12 17:08:51] Текст ошибки: Контроллер app\controllers\PageNewController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 33
+=================
+[2020-12-12 17:08:51] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 36
+=================
+[2020-12-12 17:14:33] Текст ошибки: Контроллер app\controllers\PageNewController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:15:41] Текст ошибки: Контроллер app\controllers\PageNewController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:15:57] Текст ошибки: Контроллер app\controllers\PageNewController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:16:00] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:16:02] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:16:42] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 39
+=================
+[2020-12-12 17:18:01] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 36
+=================
+[2020-12-12 17:18:22] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 36
+=================
+[2020-12-12 17:19:33] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 36
+=================
+[2020-12-12 17:19:51] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 37
+=================
+[2020-12-12 17:35:54] Текст ошибки: Class 'framework\app\controllers\AppController' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 6
+=================
+[2020-12-12 17:35:54] Текст ошибки: Class 'framework\app\controllers\AppController' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 6
+=================
+[2020-12-12 17:36:06] Текст ошибки: Class 'framework\app\controllers\AppController' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 6
+=================
+[2020-12-12 17:36:10] Текст ошибки: Class 'framework\app\controllers\AppController' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 6
+=================
+[2020-12-13 12:23:49] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 42
+=================
+[2020-12-13 12:29:24] Текст ошибки: Class 'framework\base\View' not found | Файл: W:\domains\framework\vendor\framework\core\base\Controller.php | Строка: 27
+=================
+[2020-12-13 12:29:40] Текст ошибки: Class 'framework\base\View' not found | Файл: W:\domains\framework\vendor\framework\core\base\Controller.php | Строка: 27
+=================
+[2020-12-13 12:29:46] Текст ошибки: Class 'framework\base\View' not found | Файл: W:\domains\framework\vendor\framework\core\base\Controller.php | Строка: 27
+=================
+[2020-12-13 12:30:29] Текст ошибки: Class 'framework\base\View' not found | Файл: W:\domains\framework\vendor\framework\core\base\Controller.php | Строка: 27
+=================
+[2020-12-13 13:03:34] Текст ошибки: Class 'app\controllers\App' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 9
+=================
+[2020-12-13 13:03:35] Текст ошибки: Class 'app\controllers\App' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 9
+=================
+[2020-12-13 13:03:35] Текст ошибки: Class 'app\controllers\App' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 9
+=================
+[2020-12-24 10:38:50] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 37
+=================
+[2020-12-24 10:38:51] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 45
+=================
+[2020-12-24 10:39:39] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 37
+=================
+[2020-12-24 10:40:21] Текст ошибки: Не найден вид W:\domains\framework/app/views/Page/view.php | Файл: W:\domains\framework\vendor\framework\core\base\View.php | Строка: 43
+=================
+[2020-12-24 10:40:22] Текст ошибки: Не найден вид W:\domains\framework/app/views/Page/view.php | Файл: W:\domains\framework\vendor\framework\core\base\View.php | Строка: 43
+=================
+[2020-12-24 11:09:09] Текст ошибки: Не найден вид W:\domains\framework/app/views/Page/view.php | Файл: W:\domains\framework\vendor\framework\core\base\View.php | Строка: 43
+=================
+[2020-12-24 14:46:42] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: W:\domains\framework\app\controllers\AppController.php | Строка: 11
+=================
+[2020-12-24 14:48:02] Текст ошибки: Class 'R' not found | Файл: W:\domains\framework\vendor\framework\core\Db.php | Строка: 14
+=================
+[2020-12-26 13:52:21] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: W:\domains\framework\app\controllers\MainController.php | Строка: 14
+=================
+[2020-12-26 13:52:21] Текст ошибки: Страница не найдена | Файл: W:\domains\framework\vendor\framework\core\Router.php | Строка: 45
+=================
